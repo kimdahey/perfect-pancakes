@@ -16,7 +16,7 @@ class List extends Component {
         */
 
         const items = this.props.items.map(item => {
-            return <li key={item.name}><Pancake item={item} /></li>
+            return <li id="pan" key={item.name}><Pancake item={item} /></li>
         });
 
         return items;
