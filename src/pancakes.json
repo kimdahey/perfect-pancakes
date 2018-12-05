@@ -1,0 +1,344 @@
+[
+    {"name": "Beavertails",
+        "country": "Canada",
+        "continent": "The Americas",
+        "blurb": "Beavertails are a Canadian staple. They're a cross between a cinnamon sugar doughnut and a pancake, as they are made using pancake batter, but fried in the same way that doughnuts are. Topped with everything from fruit to Nutella, this version of a pancake is worth every crunchy bite.",
+        "photo": "/photos/beavertails.jpg"
+    },
+
+    {"name": "Buttermilk Pancakes",
+        "country": "United States",
+        "continent": "The Americas",
+        "blurb": "An American staple, there's nothing better for breakfast than a tall stack of fluffy flapjacks coated in salty butter and fresh maple syrup.",
+        "photo": "/photos/buttermilk_pancakes.jpg"
+    },
+
+    {"name": "Hotcake",
+        "country": "Mexico",
+        "continent": "The Americas",
+        "blurb": "A hotcake is very similar to the classic buttermilk pancake that comes from Mexico's neighbor to the north. The primary difference between a hotcake and an American pancake, however, is that hotcakes have cinnamon infused in the batter and tend to be much thicker than American pancakes.",
+        "photo": "/photos/hotcake.jpg"
+    },
+
+    {"name": "Yaniqueques",
+        "country": "Dominican Republic",
+        "continent": "The Americas",
+        "blurb": "Yaniqueque translates to \"Jonnycake\" in English and is a pancake made with cornmeal and flour (instead of just flour like most pancakes). Then, they're deep-fried, making them deliciously crunchy!",
+        "photo": "/photos/yaniqueques.jpg"
+    },
+
+    {"name": "Chorreadas",
+        "country": "Costa Rica",
+        "continent": "The Americas",
+        "blurb": "A favorite dish in Costa Rica, chorreadas are savory pancakes composed of cornmeal and are eaten for breakfast, lunch, and dinner with a variety of different garnishes.",
+        "photo": "/photos/chorreadas.jpg"
+    },
+
+    {"name": "Cachapas",
+        "country": "Venezuela",
+        "continent": "The Americas",
+        "blurb": "Cachapas are corn pancakes with full corn kernels that are sometimes eaten flat and plain like a traditional American pancake fresh off a street vendor's grill, or folded and stuffed with cheese for a more savory treat reminiscent of a French crepe.",
+        "photo": "/photos/cachapas.jpg"
+    },
+
+    {"name": "Arepas",
+        "country": "Colombia",
+        "continent": "The Americas",
+        "blurb": "An arepa is a cross between a flatbread and a pancake and topped with a plethora of delicious savory Venezuelan delicacies from beans, cheese, and salsa or ham.",
+        "photo": "/photos/arepas.jpg"
+    },
+
+    {"name": "Panqueques Con Dulce de Leche",
+        "country": "Argentina",
+        "continent": "The Americas",
+        "blurb": "Panqueques con dulce de leche are an Argentinian staple, as is any food with dulce de leche oozing out of the sides. Thin crepe-like pancakes are lathered in gooey dulce de leche and then rolled up to achieve the optimal balance of light, slightly crispy dough and sweet dulce de leche.",
+        "photo": "/photos/panqueques_con_dulce_de_leche.jpg"
+    },
+
+    {"name": "Milcao",
+        "country": "Chile",
+        "continent": "The Americas",
+        "blurb": "Milcaos are potato pancakes originating from the Chiloé Archipelago and are composed of raw grated potatoes and cooked mashed potatoes mixed with other ingredients such as green beans, currants, various meats, or even sweet toppings. Milcao is baked in a large skillet when there are many toppings added to it, but ones comprised of only potatoes are fried.",
+        "photo": "/photos/milcao.jpg"
+    },
+
+    {"name": "Tapioca",
+        "country": "Brazil",
+        "continent": "The Americas",
+        "blurb": "Tapiocas are Brazilian pancakes that are slightly thicker than crepes and can be eaten plain or with sweet or savory toppings. Tapioca flour is moistened and strained through a sieve to become the flour used in these pancakes, and the heat from an ungreased griddle makes the starchy grains fuse into the grainy pancake. Favorite tapioca toppings include melted butter and dried, shredded coconut.",
+        "photo": "/photos/tapioca.jpg"
+    },
+
+    {"name": "Pancakes with Sugar and Lemon",
+        "country": "England",
+        "continent": "Europe",
+        "blurb": "British pancakes are quite similar to those of their one-time colony across the Atlantic. The fundamental difference between American pancakes and British pancakes is that British pancakes are made with sugar and lemon and use skim milk instead of buttermilk.",
+        "photo": "/photos/pancakes_with_sugar_and_lemon.jpg"
+    },
+
+    {"name": "Scottish Pancakes",
+        "country": "Scotland",
+        "continent": "Europe",
+        "blurb": "Scottish pancakes (also known as Scotch pancakes) are made in small circles and fluff up perfectly when griddled into tiny bundles of joy. These pancakes, requiring only flour, caster sugar, an egg, and milk, are easy to make and incredibly tasty",
+        "photo": "/photos/scottish_pancakes.jpg"
+    },
+
+    {"name": "Crempog",
+        "country": "Wales",
+        "continent": "Europe",
+        "blurb": "Crempogs are one of the most famed and oldest recipes in Wales, and these Welsh pancakes are made with eggs, flour, buttermilk, vinegar, and salted butter. Also known as ffroes, pancos, and cramoth, and customarily served thickly piled into a stack and spread with butter, these pancakes are most commonly served at celebrations in Wales, such as Shrove Tuesday and birthdays.",
+        "photo": "/photos/crempog.jpg"
+    },
+
+    {"name": "Pönnukaka",
+        "country": "Iceland",
+        "continent": "Europe",
+        "blurb": "Pönnukaka, comprised of only eggs, flour, and milk, is usually baked in a frying pan before topped with the traditional strawberries and whipped cream or jam.",
+        "photo": "/photos/ponnukaka.jpg"
+    },
+
+    {"name": "Pannukakku",
+        "country": "Finland",
+        "continent": "Europe",
+        "blurb": "Pannukakku is a Finnish oven pancake that is eggy and creamy and fluffy all at once. These fixtures of Finnish cuisine are prominent in many communities in the United States where there is a high population of Finnish immigrants, so you will not have to travel all the way to taste one of these deliciously baked pancakes.",
+        "photo": "/photos/pannukakku.jpg"
+    },
+
+    {"name": "Raggmunk",
+        "country": "Sweden",
+        "continent": "Europe",
+        "blurb": "As a Swedish potato pancake similar to the Jewish potato latke, raggmunk is fried in butter and served with fried pork and lingonberries, making it a tangy and savory delicacy in Sweden. Typically eaten in winter, as raggmunk pancakes cannot be made using new potatoes (since potatoes harvested during the summer do not contain enough starch to hold the pancake together), this dish is hearty and delicious, warming your belly on snowy Swedish-winter nights.",
+        "photo": "/photos/raggmunk.jpg"
+    },
+
+    {"name": "Æbleskiver",
+        "country": "Denmark",
+        "continent": "Europe",
+        "blurb": "Æbleskiver is a Danish pancake puff, traditionally made in the shape of a sphere and cooked in a special pan with circular cutouts in which chefs pour and continually stir the batter. The name translates to apple slices in Danish, although most versions served today do not feature apples. Aebleskiver are a cross between European pancakes and popovers, making them solid yet still very light and fluffy.",
+        "photo": "/photos/aebleskiver.jpg"
+    },
+
+    {"name": "Dutch Baby",
+        "country": "Netherlands",
+        "continent": "Europe",
+        "blurb": "One of my favorite international types of pancakes by far, you cannot visit Amsterdam without trying one of these crispy, fluffy, pudding-like pancakes and savor every delectable bite. Baked in an oven and topped with the perfect amount of powdered sugar, these babies are a splendid treat for breakfast, brunch, lunch, dessert, and just about any time of the day in between.",
+        "photo": "/photos/dutch_baby.jpg"
+    },
+
+    {"name": "Filloas",
+        "country": "Spain",
+        "continent": "Europe",
+        "blurb": "Made from flour, milk, and eggs, these thin Spanish pancakes are usually served with heaps of sugar or honey. They are a typical carnival sweet dessert in Galicia, Asturias, and León.",
+        "photo": "/photos/filloas.jpg"
+    },
+
+    {"name": "Crepes",
+        "country": "France",
+        "continent": "Europe",
+        "blurb": "Crepes are a staple of French cuisine. Sweet delights such as berry compote, lemon and ricotta cheese, brown sugar and cinnamon, Nutella and bananas, are favorites that can be made at home or eaten when dining out. Delicious savory combinations such as ham and gruyere, pesto and tomatoes and mozzarella, or prosciutto and cantaloupe, are several combos sure to wow as well. Bottom line: There is a crepe for any and all meals of the day—breakfast, lunch, or dinner—and your stomach is sure to be satisfied.",
+        "photo": "/photos/crepes.jpg"
+    },
+
+    {"name": "Boûkéte",
+        "country": "Belgium",
+        "continent": "Europe",
+        "blurb": "While not as famous as waffles in Belgium, boûkéte are still a delicious Belgian treat! With a French crepe-like texture and topped with baked apples, these pancakes are sure to satisfy your sweet tooth just as much as a classic Belgian waffle would.",
+        "photo": "/photos/boukete.jpg"
+    },
+
+    {"name": "Pfannkuchen",
+        "country": "Germany",
+        "continent": "Europe",
+        "blurb": "Pfannkuchen are German baked pancakes with a delicious custard-like texture. While thick, but still light and buttery, these pancakes taste more like dessert than breakfast.",
+        "photo": "/photos/pfannkuchen.jpg"
+    },
+
+    {"name": "Crespelle",
+        "country": "Italian",
+        "continent": "Europe",
+        "blurb": "Crespelle is an Italian crepe that is filled with either fruit or meat and formed into an adorable little bundle of deliciousness.",
+        "photo": "/photos/crespelle.jpg"
+    },
+
+    {"name": "Cholermus",
+        "country": "Switzerland",
+        "continent": "Europe",
+        "blurb": "Swiss pancakes are served stacked high, and have a thin, buttery texture that is the perfect way to start any day off right.",
+        "photo": "/photos/cholermus.jpg"
+    },
+
+    {"name": "Kaiserschmarrn",
+        "country": "Austria",
+        "continent": "Europe",
+        "blurb": "Kaiserschmarrn, which translates to \"the emperor's sweet omelet,\" is one of the most famous desserts in Austria. Kaiserschmarrn is prepared in various ways with the most common being the separation of the egg white from the yolk, and then the yolk is assembled with sugar until it has a cream-like consistency. Then flour, milk, salt, raisins, and pine nuts, on occasion, are added. And lastly, the egg whites are beaten into the mixture once everything is already in a pan. While it cooks, it is turned and cut with a fork, which is why it does not have the shape of a traditional pancake. Finally, it is served with powdered sugar, blueberries, currant jam, or sliced apples.",
+        "photo": "/photos/kaiserschmarrn.jpg"
+    },
+
+    {"name": "Palacsinta",
+        "country": "Hungary",
+        "continent": "Europe",
+        "blurb": "Hungarian palacsinta is similar to a French crepe but is cooked without the use of butter. This favorite dessert of Hungary is served rolled up and stuffed with everything from jam to chocolate, is sprinkled with icing sugar or cocoa, and is sometimes even topped with whipped cream.",
+        "photo": "/photos/palacsinta.jpg"
+    },
+
+    {"name": "Tiganites",
+        "country": "Greece",
+        "continent": "Europe",
+        "blurb": "Tiganites are Greek pancakes with honey and walnuts. Greek legend states that these were the first pancakes in the world, but there is no definitive proof to back this claim other than the fact that these breakfast pancakes are undeniably delicious.",
+        "photo": "/photos/tiganites.jpg"
+    },
+
+    {"name": "Nalesniki",
+        "country": "Poland",
+        "continent": "Europe",
+        "blurb": "Nalesniki are Polish pancakes filled with jam and cooked using carbonated water rather than milk or still water, which gives them a deliciously airy texture and a crepe-like shape.",
+        "photo": "/photos/nalesniki.jpg"
+    },
+
+    {"name": "Clătite",
+        "country": "Romania",
+        "continent": "Europe",
+        "blurb": "Comprised of raisins, almonds, apple jam, or small pieces of apple, split into parts, and sprinkled with powdered sugar, these pancakes are cooked in a pan, filled with delicious ingredients, rolled into cylinders, and then baked until the edges are slightly crispy.",
+        "photo": "/photos/clatite.jpg"
+    },
+
+    {"name": "Blintzes",
+        "country": "Ukraine",
+        "continent": "Europe",
+        "blurb": "Blintzes are common across Eastern Europe, originating in former USSR territories, specifically Ukraine. Blintzes are thin blini (or pancakes in Russian), filled most commonly with sweet cheese and folded before they are baked and served with sour cream, a sweet sauce, or jam.",
+        "photo": "/photos/blintzes.jpg"
+    },
+
+    {"name": "Blini",
+        "country": "Russia",
+        "continent": "Europe",
+        "blurb": "People often confuse blintzes and blini, as they both mean pancakes in Russian. However, the critical difference is that blini are savory pancakes (while blintzes are sweet), they're made from buckwheat flour, and are traditionally served with melted butter, sour cream, and caviar or smoked salmon.",
+        "photo": "/photos/blini.jpg"
+    },
+
+    {"name": "Mlaoui",
+        "country": "Morocco",
+        "continent": "Africa",
+        "blurb": "Most commonly consumed at breakfast with honey and yogurt, these dense pancakes are not eaten hot, but at room temperature, and their immensely chewy texture is sure to be different than any other pancake you might have ever tasted.",
+        "photo": "/photos/mlaoui.jpg"
+    },
+
+    {"name": "Injera",
+        "country": "Ethiopia",
+        "continent": "Africa",
+        "blurb": "A central fixture to many an Ethiopian meal, injera is a pancake made using teff flour with a slightly spongy texture and topped with a plethora of savory stews and salads in which pieces of the injera are dipped.",
+        "photo": "/photos/injera.jpg"
+    },
+
+    {"name": "Anjero",
+        "country": "Somalia and Djibouti",
+        "continent": "Africa",
+        "blurb": "Eaten on the daily in most Somali and Djibouti households, anjeros, much like Ethiopian injera, are light, spongy, and chewy pancakes that taste similar to crumpets. They are eaten for breakfast, drizzled with butter and sugar, or for lunch and dinner with a meat-based stew known as maraq.",
+        "photo": "/photos/anjero.jpg"
+    },
+
+    {"name": "Pannekoek",
+        "country": "South Africa",
+        "continent": "Africa",
+        "blurb": "Originating in the Netherlands and arriving in South Africa via the colonialists, pannekoek are Dutch-South African pancakes that are roughly a foot in diameter and are eaten for lunch and dinner. There are many sweet, savory, and stuffed varieties and the batter used for pannekoek is egg-based. Fillings include such items as sliced apples, cheese, ham, bacon, and candied ginger. Stroop, a thick, beet-based syrup is also popular, particularly in a classic filling of bacon and stroop.",
+        "photo": "/photos/pannekoek.jpg"
+    },
+
+    {"name": "Dosa",
+        "country": "India",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Depending on where you travel in India, there is a multitude of different types of pancakes with a crepe-like consistency to taste. However, as someone who has been to India and traveled all over the vast country, dosas, produced in the South of India are the standout among Indian pancakes by far. Dosas (and a variety of other similar pancakes made in South India) are prepared by fermenting rice batter and split-skinned black lentils and then blended with water. Topped with a range of savory chutneys and filled with both mild and spicy curries comprised of vegetables or meat or both, there is no way you will not find a dosa sure to please your taste buds on any menu.",
+        "photo": "/photos/dosa.jpg"
+    },
+
+    {"name": "Rishiki",
+        "country": "Pakistan",
+        "continent": "Asia/Pacific Region",
+        "blurb": "These Pakistani pancakes, typically consumed in the Northern region of the country and a staple of the Chitrali cuisine, are slightly thicker than a crepe and made from whole wheat flour, water, and eggs and served with honey.",
+        "photo": "/photos/rishiki.jpg"
+    },
+
+    {"name": "Malpua",
+        "country": "Bangladesh",
+        "continent": "Asia/Pacific Region",
+        "blurb": "A favorite street food and breakfast item, malpua are comprised of crushed bananas and coconut, water, milk, and flour. They are then deep-fried and served with sweet syrup.",
+        "photo": "/photos/malpua.jpg"
+    },
+
+    {"name": "Chataamari",
+        "country": "Nepal",
+        "continent": "Asia/Pacific Region",
+        "blurb": "This savory rice pancake native to Nepal is cooked with meat or eggs on top or served plain. Also known as the Newari Pizza, this dish is served and eaten similarly to American pizza as Nepalis eat it with their hands as they would a slice of pizza.",
+        "photo": "/photos/chataamari.jpg"
+    },
+
+    {"name": "Kimchijeon",
+        "country": "Korea",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Kimchi is a staple of Korean cuisine, so it is no surprise that their version of a pancake would feature the pickled vegetable as well. Kimchijeon, or kimchi pancakes, are composed of sliced kimchi, a flour batter, and sometimes other vegetables or ground pork.",
+        "photo": "/photos/kimchijeon.jpg"
+    },
+
+    {"name": "Okonomiyaki",
+        "country": "Japan",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Japanese okonomiyaki are made from flour, egg, cabbage, and various other vegetables and meats. Depending on where in Japan you are located, the toppings and cooking of this fried dish may vary.",
+        "photo": "/photos/okonomiyaki.jpg"
+    },
+
+    {"name": "Apam Balik",
+        "country": "Malaysia",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Favorite street food of all who visit Kuala Lumpur and Malaysia's other large cities, apam balik are bigger than the size of your head but are as light as a feather, and their sweet brown sugar and cinnamon filling is guaranteed to be the perfect afternoon snack.",
+        "photo": "/photos/apam_balik.jpg"
+    },
+
+    {"name": "Lempeng",
+        "country": "Singapore",
+        "continent": "Asia/Pacific Region",
+        "blurb": "This Singaporean pancake is cooked very similarly to an American or Canadian style pancake except for the fact that it does not use a rising agent. This dish is usually served during the breakfast hours with varying types of curry, meat, or fish.",
+        "photo": "/photos/lempeng.jpg"
+    },
+
+    {"name": "Serabi",
+        "country": "Indonesia",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Indonesian serabi are made of rice flour and coconut milk. The dish is commonly served with kinca, a thick, brown or purple-colored coconut sugar syrup. Other favorite toppings are jackfruit, peanuts, bananas, sugar, fruit, and chocolate, and less common are savory versions that include cheese and meat.",
+        "photo": "/photos/serabi.jpg"
+    },
+
+    {"name": "Maruya",
+        "country": "Phillipines",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Maruya are fried banana pancakes coated in powdered sugar and are served as a typical Filipino snack. What could be better?",
+        "photo": "/photos/maruya.jpg"
+    },
+
+    {"name": "Roti",
+        "country": "Thailand",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Roti are a savory or sweet Thai pancake that is commonly sold by street vendors. These thin pancakes are delicious at any time of the day, and the most popular toppings include sweetened condensed milk, white sugar, and banana or chocolate. In South Thailand, for breakfast, roti is served alongside curry.",
+        "photo": "/photos/roti.jpg"
+    },
+
+    {"name": "Bánh Xèo",
+        "country": "Vietnam",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Bánh Xèo translates to \"sizzling cake,\" and it is called this due to loud sizzling sound it makes when the rice batter is poured into a hot skillet. This savory fried pancake made of rice flour, water, and turmeric powder is stuffed with a variety of vegetables or even certain meats. Common stuffings include pork, shrimp, green onion, mung beans, and bean sprouts.",
+        "photo": "/photos/banh_xeo.jpg"
+    },
+
+    {"name": "Cong You Bing",
+        "country": "China",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Deep fried and made using large chunks of scallion and dipped in tangy sesame oil or soy sauce, what could be better than these Chinese pancakes served for lunch and dinner?",
+        "photo": "/photos/cong_you_bing.jpg"
+    },
+
+    {"name": "Pikelets",
+        "country": "Australia",
+        "continent": "Asia/Pacific Region",
+        "blurb": "Pikelets are mini Australian pancake pockets that are filled with custard or jam. These fluffy little pancakes are sure to warm the hearts of all who taste their sweet goodness and tart twist!",
+        "photo": "/photos/pikelets.jpg"
+    }
+]

@@ -18,6 +18,36 @@
   color: white;
 }
 
+li {
+  margin: 30px;
+  list-style-type: none;
+  display: inline-flex;
+  flex: 1;
+  list-style-position: inside;
+  border: 5px solid #D89947;
+}
+
+ul {
+  text-align: center;
+}
+
+img {
+  max-width: 400px;
+  max-height: 300px;
+}
+
+.filtered-list {
+  text-align: center;
+  display: grid;
+  
+}
+
+.pancake {
+  padding: 5px 50px;
+  max-width: 500px;
+  text-align: center;
+}
+
 .App-link {
   color: #61dafb;
 }

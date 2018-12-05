@@ -1,0 +1,71 @@
+[
+    {"name": "Beavertails",
+        "country": "Canada",
+        "continent": "The Americas",
+        "blurb": "Beavertails are a Canadian staple. They're a cross between a cinnamon sugar doughnut and a pancake, as they are made using pancake batter, but fried in the same way that doughnuts are. Topped with everything from fruit to Nutella, this version of a pancake is worth every crunchy bite.",
+        "photo": null
+    },
+
+    {"name": "Buttermilk Pancakes",
+        "country": "United States",
+        "continent": "The Americas",
+        "blurb": "An American staple, there's nothing better for breakfast than a tall stack of fluffy flapjacks coated in salty butter and fresh maple syrup.",
+        "photo": null
+    },
+
+    {"name": "Hotcake",
+        "country": "Mexico",
+        "continent": "The Americas",
+        "blurb": "A hotcake is very similar to the classic buttermilk pancake that comes from Mexico's neighbor to the north. The primary difference between a hotcake and an American pancake, however, is that hotcakes have cinnamon infused in the batter and tend to be much thicker than American pancakes.",
+        "photo": null
+    },
+
+    {"name": "Yaniqueques",
+        "country": "Dominican Republic",
+        "continent": "The Americas",
+        "blurb": "Yaniqueque translates to \"Jonnycake\" in English and is a pancake made with cornmeal and flour (instead of just flour like most pancakes). Then, they're deep-fried, making them deliciously crunchy!",
+        "photo": null
+    },
+
+    {"name": "Chorreadas",
+        "country": "Costa Rica",
+        "continent": "The Americas",
+        "blurb": "A favorite dish in Costa Rica, chorreadas are savory pancakes composed of cornmeal and are eaten for breakfast, lunch, and dinner with a variety of different garnishes.",
+        "photo": null
+    },
+
+    {"name": "Cachapas",
+        "country": "Venezuela",
+        "continent": "The Americas",
+        "blurb": "Cachapas are corn pancakes with full corn kernels that are sometimes eaten flat and plain like a traditional American pancake fresh off a street vendor's grill, or folded and stuffed with cheese for a more savory treat reminiscent of a French crepe.",
+        "photo": null
+    },
+
+    {"name": "Arepas",
+        "country": "Colombia",
+        "continent": "The Americas",
+        "blurb": "An arepa is a cross between a flatbread and a pancake and topped with a plethora of delicious savory Venezuelan delicacies from beans, cheese, and salsa or ham.",
+        "photo": null
+    },
+
+    {"name": "Panqueques Con Dulce de Leche",
+        "country": "Argentina",
+        "continent": "The Americas",
+        "blurb": "Panqueques con dulce de leche are an Argentinian staple, as is any food with dulce de leche oozing out of the sides. Thin crepe-like pancakes are lathered in gooey dulce de leche and then rolled up to achieve the optimal balance of light, slightly crispy dough and sweet dulce de leche.",
+        "photo": null
+    },
+
+    {"name": "Milcao",
+        "country": "Chile",
+        "continent": "The Americas",
+        "blurb": "Milcaos are potato pancakes originating from the Chiloé Archipelago and are composed of raw grated potatoes and cooked mashed potatoes mixed with other ingredients such as green beans, currants, various meats, or even sweet toppings. Milcao is baked in a large skillet when there are many toppings added to it, but ones comprised of only potatoes are fried.",
+        "photo": null
+    },
+
+    {"name": "Tapioca",
+        "country": "Brazil",
+        "continent": "The Americas",
+        "blurb": "Tapiocas are Brazilian pancakes that are slightly thicker than crepes and can be eaten plain or with sweet or savory toppings. Tapioca flour is moistened and strained through a sieve to become the flour used in these pancakes, and the heat from an ungreased griddle makes the starchy grains fuse into the grainy pancake. Favorite tapioca toppings include melted butter and dried, shredded coconut.",
+        "photo": null
+    }
+]
