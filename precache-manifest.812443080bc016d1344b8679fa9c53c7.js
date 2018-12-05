@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/perfect-pancakes/static/js/runtime~main.516ebe35.js"
   },
   {
-    "revision": "004b2a282e981e382052",
-    "url": "/perfect-pancakes/static/js/main.004b2a28.chunk.js"
+    "revision": "a5b4078bcb314c754827",
+    "url": "/perfect-pancakes/static/js/main.a5b4078b.chunk.js"
   },
   {
     "revision": "f25216638ebbcf4b8137",
     "url": "/perfect-pancakes/static/js/1.f2521663.chunk.js"
   },
   {
-    "revision": "004b2a282e981e382052",
+    "revision": "a5b4078bcb314c754827",
     "url": "/perfect-pancakes/static/css/main.5900fab6.chunk.css"
   },
   {
-    "revision": "c7ccabd332e90b30cddb1000931422b2",
+    "revision": "1e6bebd9b8d3fb698601a6ed229e6b3b",
     "url": "/perfect-pancakes/index.html"
   }
 ];
