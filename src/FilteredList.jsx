@@ -39,8 +39,6 @@ class FilteredList extends Component {
         return (
             <div className="filtered-list">
                 <div class="searcher">
-                <input type="text" placeholder="Type in a pancake name..." onChange={this.onSearch} />
-                
                 <DropdownButton class="continentDropdown" id="continentDropdown" title={"Continent"}>
                     <MenuItem eventKey="All" onSelect={this.selectDropdown}>All</MenuItem>
                     <MenuItem eventKey="The Americas" onSelect={this.selectDropdown}>The Americas</MenuItem>
@@ -49,6 +47,8 @@ class FilteredList extends Component {
                     <MenuItem eventKey="Asia/Pacific Region" onSelect={this.selectDropdown}>Asia/Pacific Region</MenuItem>
                     <MenuItem eventKey="Europe" onSelect={this.selectDropdown}>Europe</MenuItem>
                 </DropdownButton>
+
+                <input type="text" placeholder="Type in a pancake name..." onChange={this.onSearch} />
                 </div>
                 
                 <List className="list" items={this.props.items.sort((a, b) => a.name.localeCompare(b.name)).filter(this.filterItem)} />
