@@ -1,13 +1,15 @@
 {
-  "main.css": "/perfect-pancakes/static/css/main.5900fab6.chunk.css",
-  "main.js": "/perfect-pancakes/static/js/main.a5b4078b.chunk.js",
-  "main.js.map": "/perfect-pancakes/static/js/main.a5b4078b.chunk.js.map",
-  "static/js/1.f2521663.chunk.js": "/perfect-pancakes/static/js/1.f2521663.chunk.js",
-  "static/js/1.f2521663.chunk.js.map": "/perfect-pancakes/static/js/1.f2521663.chunk.js.map",
+  "main.css": "/perfect-pancakes/static/css/main.8a6e6e02.chunk.css",
+  "main.js": "/perfect-pancakes/static/js/main.aa90ad41.chunk.js",
+  "main.js.map": "/perfect-pancakes/static/js/main.aa90ad41.chunk.js.map",
+  "static/css/1.b1cb36e9.chunk.css": "/perfect-pancakes/static/css/1.b1cb36e9.chunk.css",
+  "static/js/1.5aa6b662.chunk.js": "/perfect-pancakes/static/js/1.5aa6b662.chunk.js",
+  "static/js/1.5aa6b662.chunk.js.map": "/perfect-pancakes/static/js/1.5aa6b662.chunk.js.map",
   "runtime~main.js": "/perfect-pancakes/static/js/runtime~main.516ebe35.js",
   "runtime~main.js.map": "/perfect-pancakes/static/js/runtime~main.516ebe35.js.map",
-  "static/css/main.5900fab6.chunk.css.map": "/perfect-pancakes/static/css/main.5900fab6.chunk.css.map",
+  "static/css/1.b1cb36e9.chunk.css.map": "/perfect-pancakes/static/css/1.b1cb36e9.chunk.css.map",
+  "static/css/main.8a6e6e02.chunk.css.map": "/perfect-pancakes/static/css/main.8a6e6e02.chunk.css.map",
   "index.html": "/perfect-pancakes/index.html",
-  "precache-manifest.812443080bc016d1344b8679fa9c53c7.js": "/perfect-pancakes/precache-manifest.812443080bc016d1344b8679fa9c53c7.js",
+  "precache-manifest.8002cc18dde527d2ace0964dbe46ff71.js": "/perfect-pancakes/precache-manifest.8002cc18dde527d2ace0964dbe46ff71.js",
   "service-worker.js": "/perfect-pancakes/service-worker.js"
 }
