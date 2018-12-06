@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/perfect-pancakes/precache-manifest.bba0c099932c99e854ef20e60415ff91.js"
+  "/perfect-pancakes/precache-manifest.ab9a6202774d76f18ea8497a7b67624d.js"
 );
 
 workbox.clientsClaim();
