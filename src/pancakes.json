@@ -3,28 +3,32 @@
         "country": "Canada",
         "continent": "The Americas",
         "blurb": "Beavertails are a Canadian staple. They're a cross between a cinnamon sugar doughnut and a pancake, as they are made using pancake batter, but fried in the same way that doughnuts are. Topped with everything from fruit to Nutella, this version of a pancake is worth every crunchy bite.",
-        "photo": "/photos/beavertails.jpg"
+        "photo": "/photos/beavertails.jpg",
+        "taste": "Sweet"
     },
 
     {"name": "Buttermilk Pancakes",
         "country": "United States",
         "continent": "The Americas",
         "blurb": "An American staple, there's nothing better for breakfast than a tall stack of fluffy flapjacks coated in salty butter and fresh maple syrup.",
-        "photo": "/photos/buttermilk_pancakes.jpg"
+        "photo": "/photos/buttermilk_pancakes.jpg",
+        "taste": "Sweet"
     },
 
     {"name": "Hotcake",
         "country": "Mexico",
         "continent": "The Americas",
         "blurb": "A hotcake is very similar to the classic buttermilk pancake that comes from Mexico's neighbor to the north. The primary difference between a hotcake and an American pancake, however, is that hotcakes have cinnamon infused in the batter and tend to be much thicker than American pancakes.",
-        "photo": "/photos/hotcake.jpg"
+        "photo": "/photos/hotcake.jpg",
+        "taste": "Sweet"
     },
 
     {"name": "Yaniqueques",
         "country": "Dominican Republic",
         "continent": "The Americas",
         "blurb": "Yaniqueque translates to \"Jonnycake\" in English and is a pancake made with cornmeal and flour (instead of just flour like most pancakes). Then, they're deep-fried, making them deliciously crunchy!",
-        "photo": "/photos/yaniqueques.jpg"
+        "photo": "/photos/yaniqueques.jpg",
+        "taste": "Savory"
     },
 
     {"name": "Chorreadas",
