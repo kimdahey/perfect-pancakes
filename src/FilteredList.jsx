@@ -73,8 +73,8 @@ class FilteredList extends Component {
 
                 <DropdownButton label="Taste: " className="tasteDropdown" id="tasteDropdown" title={"Taste: " + this.state.taste}>
                     <MenuItem eventKey="All" onSelect={this.selectDropdownTaste}>All</MenuItem>
-                    <MenuItem eventKey="Sweet" onSelect={this.selectDropdownTaste}>Sweet</MenuItem>
-                    <MenuItem eventKey="Savory" onSelect={this.selectDropdownTaste}>Savory</MenuItem>
+                    <MenuItem eventKey="sweet" onSelect={this.selectDropdownTaste}>Sweet</MenuItem>
+                    <MenuItem eventKey="savory" onSelect={this.selectDropdownTaste}>Savory</MenuItem>
                 </DropdownButton>
                 
                 <p></p>
